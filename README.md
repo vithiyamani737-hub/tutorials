@@ -11,5 +11,8 @@ This template covers:
 
 You can **quickly add section links, images, or gifs** later for more clarity.  
 
+![see](brain.jpg)
+
+
 
 
